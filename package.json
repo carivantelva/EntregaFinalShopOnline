@@ -16,9 +16,9 @@
   "author": "Grupo ShopOnline",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OZZYTA/VetyShop/issues"
+    "url": "https://github.com/carivantelva/EntregaFinalShopOnline/issues"
   },
-  "homepage": "https://github.com/OZZYTA/VetyShop#readme",
+  "homepage": "https://github.com/carivantelva/EntregaFinalShopOnline#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",

@@ -8,8 +8,8 @@ const CheckoutSteps = ({ shipping, confirmOrder, payment }) => {
             {shipping ? <Link to='/shippping' className="float-right">
                 <div className="triangle2-active"></div>
                 <div className="step active-step">Envio</div>
-                <div className="triangle-active"></div>
-            </Link> : <Link to="#!" disabled>
+                <div className="triangle-active"></div> 
+            </Link>  : <Link to="#!" disabled>
                     <div className="triangle2-incomplete"></div>
                     <div className="step incomplete">Envio</div>
                     <div className="triangle-incomplete"></div>
